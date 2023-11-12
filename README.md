@@ -8,7 +8,7 @@
 (Abaixo você seleciona o curso que você está fazendo no momento) -->
 
 Eu estudo [[Python para Análise de Dados](https://www.coderhouse.com.br/online/python-br) @ [CoderHouser](https://www.coderhouse.com.br/)]   
-Atualmente trabalho como Analista de Sistemas. Essa é uma área que me encanta e me desafia constantemente. Eu adoro usar a tecnologia para solucionar problemas complexos e melhorar processos. Eu também sou fascinado por Análise de Dados, Banco de Dados e programação, especialmente as últimas versões de Python. Eu acredito que essas ferramentas são fundamentais para compreender o mundo e criar soluções inovadoras. Eu procuro estar sempre em constante aprendizado e atualização sobre as novidades do mercado. Para isso, eu faço cursos, assisto palestras, participo de workshops e eventos relacionados à minha área de atuação. Eu também valorizo muito a troca de ideias e experiências com outros profissionais da minha área.
+<p style="text-align: justify;">Atualmente trabalho como Analista de Sistemas. Essa é uma área que me encanta e me desafia constantemente. Eu adoro usar a tecnologia para solucionar problemas complexos e melhorar processos, também sou fascinado por Análise de Dados, Banco de Dados e programação, especialmente as últimas versões de Python. Acredito que essas ferramentas são fundamentais para compreender o mundo e criar soluções inovadoras. Procuro estar sempre em constante aprendizado e atualização sobre as novidades do mercado. Para isso, faço cursos, assisto palestras, participo de workshops e eventos relacionados à minha área de atuação, também valorizo muito a troca de ideias e experiências com outros profissionais da minha área.</p>
 
 
 
