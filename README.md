@@ -7,13 +7,13 @@
 <!-- Isso é um comentário, não irá aparecer no seu perfil
 (Abaixo você seleciona o curso que você está fazendo no momento) -->
 
-Eu estudo [[Cientista de dados + Python](https://www.coderhouse.com/br/online/carreira-cientista-de-dados-python) @ [CoderHouser](https://www.coderhouse.com.br/)]   
+  
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sobre Mim</title>
+    <title>Eu estudo [[Cientista de dados + Python](https://www.coderhouse.com/br/online/carreira-cientista-de-dados-python) @ [CoderHouser](https://www.coderhouse.com.br/)]</title>
 </head>
 <body>
     <h1>Sobre Mim</h1>
