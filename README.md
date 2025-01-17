@@ -8,27 +8,51 @@
 (Abaixo você seleciona o curso que você está fazendo no momento) -->
 
 Eu estudo [[Cientista de dados + Python](https://www.coderhouse.com/br/online/carreira-cientista-de-dados-python) @ [CoderHouser](https://www.coderhouse.com.br/)]   
-<p style="text-align: justify;">
-  - **Sou Analista de Sistemas apaixonado por tecnologia e seus desafios.**  
-  - Meu foco está em **resolver problemas complexos** e **otimizar processos** através de soluções inovadoras.  
-  - Tenho grande interesse por:  
-    - **Análise de Dados**  
-    - **Banco de Dados**  
-    - **Programação**, com ênfase nas versões mais recentes de **Python**.  
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sobre Mim</title>
+</head>
+<body>
+    <h1>Sobre Mim</h1>
+    <ul>
+        <li><strong>Sou Analista de Sistemas apaixonado por tecnologia e seus desafios.</strong>
+            <ul>
+                <li>Meu foco está em <strong>resolver problemas complexos</strong> e <strong>otimizar processos</strong> através de soluções inovadoras.</li>
+                <li>Tenho grande interesse por:
+                    <ul>
+                        <li><strong>Análise de Dados</strong></li>
+                        <li><strong>Banco de Dados</strong></li>
+                        <li><strong>Programação</strong>, com ênfase nas versões mais recentes de <strong>Python</strong>.</li>
+                    </ul>
+                </li>
+            </ul>
+        </li>
+        <li><strong>Acredito no aprendizado contínuo</strong> como base para evolução profissional e pessoal.
+            <ul>
+                <li>Estou sempre em busca de conhecimento por meio de:
+                    <ul>
+                        <li><strong>Cursos</strong></li>
+                        <li><strong>Palestras</strong></li>
+                        <li><strong>Workshops</strong></li>
+                        <li><strong>Eventos do setor</strong></li>
+                    </ul>
+                </li>
+                <li>Valorizo a troca de experiências com outros profissionais para compartilhar ideias e crescer em conjunto.</li>
+            </ul>
+        </li>
+        <li><strong>O que você encontrará aqui no GitHub:</strong>
+            <ul>
+                <li>Projetos que refletem minha <strong>curiosidade</strong>, <strong>dedicação</strong> e <strong>interesse</strong> em criar soluções úteis e práticas.</li>
+            </ul>
+        </li>
+    </ul>
+    <p>🚀 <strong>Sinta-se à vontade para explorar e colaborar!</strong></p>
+</body>
+</html>
 
-- **Acredito no aprendizado contínuo** como base para evolução profissional e pessoal.  
-  - Estou sempre em busca de conhecimento por meio de:  
-    - **Cursos**  
-    - **Palestras**  
-    - **Workshops**  
-    - **Eventos do setor**  
-  - Valorizo a troca de experiências com outros profissionais para compartilhar ideias e crescer em conjunto.  
-
-- **O que você encontrará aqui no GitHub:**  
-  - Projetos que refletem minha **curiosidade**, **dedicação** e **interesse** em criar soluções úteis e práticas.  
-
-🚀 **Sinta-se à vontade para explorar e colaborar!**
-</p>
 <br>
 <br>
 
