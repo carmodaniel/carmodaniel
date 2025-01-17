@@ -7,7 +7,7 @@
 <!-- Isso é um comentário, não irá aparecer no seu perfil
 (Abaixo você seleciona o curso que você está fazendo no momento) -->
 
-Eu estudo [[Python para Análise de Dados](https://www.coderhouse.com.br/online/python-br) @ [CoderHouser](https://www.coderhouse.com.br/)]   
+Eu estudo [[Cientista de dados + Python](https://www.coderhouse.com/br/online/carreira-cientista-de-dados-python) @ [CoderHouser](https://www.coderhouse.com.br/)]   
 <p style="text-align: justify;">
   - **Sou Analista de Sistemas apaixonado por tecnologia e seus desafios.**  
   - Meu foco está em **resolver problemas complexos** e **otimizar processos** através de soluções inovadoras.  
@@ -29,7 +29,8 @@ Eu estudo [[Python para Análise de Dados](https://www.coderhouse.com.br/online/
 
 🚀 **Sinta-se à vontade para explorar e colaborar!**
 </p>
-
+<br>
+<br>
 
 
 **Tecnologias e Ferramentas**    
