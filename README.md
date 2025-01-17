@@ -13,7 +13,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title><p>
+    <p>
     Eu estudo 
     <a href="https://www.coderhouse.com/br/online/carreira-cientista-de-dados-python" target="_blank">
         Cientista de dados + Python
@@ -23,7 +23,7 @@
         CoderHouse
     </a>.
 </p>
-</title>
+
 </head>
 <body>
     <h1>Sobre Mim</h1>
