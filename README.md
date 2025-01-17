@@ -15,7 +15,7 @@
     <p>
     Eu estudo 
     <a href="https://www.coderhouse.com/br/online/carreira-cientista-de-dados-python" target="_blank">
-        Cientista de dados + Python
+        Ciência de dados + Python
     </a> 
     @ 
     <a href="https://www.coderhouse.com.br/" target="_blank">
