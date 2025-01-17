@@ -1,4 +1,3 @@
-
 # Olá, sou <strong>Daniel</strong>
 
 ### Sobre mim
@@ -20,13 +19,13 @@
     </a> 
     @ 
     <a href="https://www.coderhouse.com.br/" target="_blank">
-        CoderHouse
-    </a>.
+        CoderHouse.
+    </a>
 </p>
 
 </head>
 <body>
-    <h1>Sobre Mim</h1>
+    <h1></h1>
     <ul>
         <li><strong>Sou Analista de Sistemas apaixonado por tecnologia e seus desafios.</strong>
             <ul>
@@ -62,9 +61,6 @@
     <p>🚀 <strong>Sinta-se à vontade para explorar e colaborar!</strong></p>
 </body>
 </html>
-
-<br>
-<br>
 
 
 **Tecnologias e Ferramentas**    
