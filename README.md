@@ -8,7 +8,27 @@
 (Abaixo você seleciona o curso que você está fazendo no momento) -->
 
 Eu estudo [[Python para Análise de Dados](https://www.coderhouse.com.br/online/python-br) @ [CoderHouser](https://www.coderhouse.com.br/)]   
-<p style="text-align: justify;">Atualmente trabalho como Analista de Sistemas. Essa é uma área que me encanta e me desafia constantemente. Eu adoro usar a tecnologia para solucionar problemas complexos e melhorar processos, também sou fascinado por Análise de Dados, Banco de Dados e programação, especialmente as últimas versões de Python. Acredito que essas ferramentas são fundamentais para compreender o mundo e criar soluções inovadoras. Procuro estar sempre em constante aprendizado e atualização sobre as novidades do mercado. Para isso, faço cursos, assisto palestras, participo de workshops e eventos relacionados à minha área de atuação, também valorizo muito a troca de ideias e experiências com outros profissionais da minha área.</p>
+<p style="text-align: justify;">
+  - **Sou Analista de Sistemas apaixonado por tecnologia e seus desafios.**  
+  - Meu foco está em **resolver problemas complexos** e **otimizar processos** através de soluções inovadoras.  
+  - Tenho grande interesse por:  
+    - **Análise de Dados**  
+    - **Banco de Dados**  
+    - **Programação**, com ênfase nas versões mais recentes de **Python**.  
+
+- **Acredito no aprendizado contínuo** como base para evolução profissional e pessoal.  
+  - Estou sempre em busca de conhecimento por meio de:  
+    - **Cursos**  
+    - **Palestras**  
+    - **Workshops**  
+    - **Eventos do setor**  
+  - Valorizo a troca de experiências com outros profissionais para compartilhar ideias e crescer em conjunto.  
+
+- **O que você encontrará aqui no GitHub:**  
+  - Projetos que refletem minha **curiosidade**, **dedicação** e **interesse** em criar soluções úteis e práticas.  
+
+🚀 **Sinta-se à vontade para explorar e colaborar!**
+</p>
 
 
 
